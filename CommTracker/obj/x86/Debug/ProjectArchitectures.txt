@@ -1,0 +1,1 @@
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker\CommTracker.csproj;x86

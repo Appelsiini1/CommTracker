@@ -1,0 +1,9 @@
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\bin\Debug\netstandard2.0\CommTracker.Core.deps.json
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\bin\Debug\netstandard2.0\CommTracker.Core.dll
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\bin\Debug\netstandard2.0\CommTracker.Core.pdb
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\obj\Debug\netstandard2.0\CommTracker.Core.csprojAssemblyReference.cache
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\obj\Debug\netstandard2.0\CommTracker.Core.AssemblyInfoInputs.cache
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\obj\Debug\netstandard2.0\CommTracker.Core.AssemblyInfo.cs
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\obj\Debug\netstandard2.0\CommTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\obj\Debug\netstandard2.0\CommTracker.Core.dll
+C:\Users\ramis\Documents\GitHub\CommTracker\CommTracker.Core\obj\Debug\netstandard2.0\CommTracker.Core.pdb
